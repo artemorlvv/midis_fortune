@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/midis_fortune/static/css/main.a47482e0.css",
+    "main.js": "/midis_fortune/static/js/main.94cac7fd.js",
+    "static/media/persik.png": "/midis_fortune/static/media/persik.ae9f00727841e011ac15.png",
+    "index.html": "/midis_fortune/index.html",
+    "main.a47482e0.css.map": "/midis_fortune/static/css/main.a47482e0.css.map",
+    "main.94cac7fd.js.map": "/midis_fortune/static/js/main.94cac7fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a47482e0.css",
+    "static/js/main.94cac7fd.js"
+  ]
+}
